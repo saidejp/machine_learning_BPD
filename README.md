@@ -1,0 +1,2 @@
+Code to reproduce results and figures for the paper: 
+Jiménez, S., Angeles-Valdez, D., Rodríguez-Delgado, A., Fresán, A., Miranda, E., Alcalá-Lozano, R., Duque-Alarcón, X., Arango de Montis, I., & Garza-Villarreal, E. A. (2022). Machine learning detects predictors of symptom severity and impulsivity after dialectical behavior therapy skills training group in borderline personality disorder. Journal of Psychiatric Research, 151(April), 42–49. https://doi.org/10.1016/j.jpsychires.2022.03.063
